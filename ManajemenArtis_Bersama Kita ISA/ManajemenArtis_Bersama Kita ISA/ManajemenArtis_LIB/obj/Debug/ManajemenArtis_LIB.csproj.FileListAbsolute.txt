@@ -1,0 +1,37 @@
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.pdb
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CopyComplete
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Documents\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.pdb
+C:\Users\Asus\Desktop\Project ISA\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Desktop\Project ISA\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.pdb
+C:\Users\Asus\Desktop\Project ISA\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Project ISA\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project ISA\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CopyComplete
+C:\Users\Asus\Desktop\Project ISA\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Desktop\Project ISA\Project ISA\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.pdb
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.pdb
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CopyComplete
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Documents\PUSING ISA BYE\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.pdb
+E:\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.dll
+E:\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.pdb
+E:\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.AssemblyReference.cache
+E:\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CoreCompileInputs.cache
+E:\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CopyComplete
+E:\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.dll
+E:\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.pdb
+C:\Users\Asus\Documents\PUSING ISA BYE\BJIR MOMENT]\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Documents\PUSING ISA BYE\BJIR MOMENT]\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\bin\Debug\ManajemenArtis_LIB.pdb
+C:\Users\Asus\Documents\PUSING ISA BYE\BJIR MOMENT]\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\PUSING ISA BYE\BJIR MOMENT]\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\PUSING ISA BYE\BJIR MOMENT]\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.csproj.CopyComplete
+C:\Users\Asus\Documents\PUSING ISA BYE\BJIR MOMENT]\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.dll
+C:\Users\Asus\Documents\PUSING ISA BYE\BJIR MOMENT]\ManajemenArtis_Bersama Kita ISA\ManajemenArtis_LIB\obj\Debug\ManajemenArtis_LIB.pdb
